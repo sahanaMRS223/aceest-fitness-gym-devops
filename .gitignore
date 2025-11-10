@@ -1,0 +1,18 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
